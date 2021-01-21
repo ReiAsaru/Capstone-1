@@ -1,0 +1,13 @@
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.genruntimeconfig.cache
+C:\Users\reias\Desktop\module1-capstone-c-team-0\dotnet\Capstone\bin\Debug\netcoreapp2.1\Inventory.txt
